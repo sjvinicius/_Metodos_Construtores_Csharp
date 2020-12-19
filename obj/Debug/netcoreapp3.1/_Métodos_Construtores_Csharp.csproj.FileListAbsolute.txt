@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\bin\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Métodos_Construtores_Csharp\obj\Debug\netcoreapp3.1\_Métodos_Construtores_Csharp.genruntimeconfig.cache
